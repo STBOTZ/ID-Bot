@@ -2,17 +2,17 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/ID-Bot"><img src="https://telegra.ph/file/784c14c76533f944ae9b0.jpg" width="2000"></a></p>
+<p align="center"><a href="https://www.github.com/STBOTZ/ID-Bot"><img src="https://telegra.ph/file/784c14c76533f944ae9b0.jpg" width="2000"></a></p>
 
 Telegram bot to get id of any user, group, bot, channels and even stickers.
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/STBOTZ/open-source-badges/)
 
 ## Usage
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/ID-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/STBOTZ/ID-Bot)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -23,7 +23,7 @@ Telegram bot to get id of any user, group, bot, channels and even stickers.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/ID-Bot
+   git clone https://github.com/STBOTZ/ID-Bot
    ```
    
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
@@ -74,9 +74,9 @@ Telegram bot to get id of any user, group, bot, channels and even stickers.
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/StarkBots)
+Channel :- [@STBOTZ](https://t.me/STBOTZ)
 
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
+Group Chat :- [@STBOTZ SUPPORT](https://t.me/ST_BOTZ)
 
 ## :)
 
@@ -84,4 +84,4 @@ Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/StarkBotsIndustries)
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/StarkBotsIndustries)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/STBOTZ)
