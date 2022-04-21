@@ -1,4 +1,4 @@
-# ID Bot [@TheIdentityBot](https://t.me/TheIdentityBot)
+# ID Bot [@IDFINDERBOT](https://t.me/ST_IDFINDERBOT)
 
 > A star ⭐ from you means a lot to us!
 
